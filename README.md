@@ -4,6 +4,8 @@ Welcome!
 
 This is a simple proof of concept for performing predictive convultion by training various Machine Learning regression models with one audio file, and then predicting the raw audio output of a second audio file. The convoluted result is eerily similar to that of SoundHack, created by Tom Erbe (http://www.soundhack.com/).
 
+Listen to audio examples of this on SoundCloud: https://soundcloud.com/ryan-denardis/sets/predictive-convolution-examples
+
 Most of the usage information is stored in the Jupyter Notebook file in this directory. You'll need some things first:
 
 1. Jupyter Notebook (http://jupyter.org/)
